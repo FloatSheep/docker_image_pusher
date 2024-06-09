@@ -1,4 +1,3 @@
-neosmemo/memos:stable
 cooderl/wewe-rss-sqlite:latest
 diygod/rsshub
 redis:alpine
