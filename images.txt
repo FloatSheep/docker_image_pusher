@@ -1,3 +1,4 @@
+postgres:15-alpine
 cthulhoo/ttrss-fpm-pgsql-static:latest
 cthulhoo/ttrss-web-nginx:latest
 cthulhoo/ttrss-fpm-pgsql-static:latest
