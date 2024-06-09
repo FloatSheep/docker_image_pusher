@@ -1,1 +1,2 @@
 neosmemo/memos:stable
+cooderl/wewe-rss-sqlite:latest
