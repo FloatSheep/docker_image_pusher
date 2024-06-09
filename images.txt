@@ -1,7 +1,7 @@
+cthulhoo/ttrss-fpm-pgsql-static:latest
+cthulhoo/ttrss-web-nginx:latest
+cthulhoo/ttrss-fpm-pgsql-static:latest
 cooderl/wewe-rss-sqlite:latest
 diygod/rsshub
 redis:alpine
 browserless/chrome
-cthulhoo/ttrss-fpm-pgsql-static:latest
-cthulhoo/ttrss-web-nginx:latest
-cthulhoo/ttrss-fpm-pgsql-static:latest
