@@ -3,7 +3,7 @@ name: Update Docker
 on:
   workflow_dispatch:
   schedule:
-    - cron: '28 1,3,5,7,9,11 * * 1-5'
+    - cron: '30 5,11 * * 1-5'
 
 
 env:
